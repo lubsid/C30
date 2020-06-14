@@ -1,2 +1,2 @@
-# C30
-Tint, attaching bird back
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
